@@ -223,7 +223,5 @@ Each phase was committed separately to show progression:
 ## Author
 
 **Saurav Subedi**  
-IT support at a bank in Nepal, transitioning to Data Scientist.  
-[GitHub](https://github.com/Saurav-Subedi) · [LinkedIn](https://linkedin.com/in/your-handle)
-
-*This is Project 1 of 3 in my DS portfolio. Project 2: Loan Default Prediction (planned).*
+IT Department Jyoti Bikash Bank ,  Data Scientist.  
+[GitHub](https://github.com/Saurav-Subedi) 
